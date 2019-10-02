@@ -7,3 +7,4 @@ There is always room for improvement. With that in mind, I will be updating this
 ### Challenge list
 
 - [String Peeler](https://dev.to/thepracticaldev/daily-challenge-1-string-peeler-4nep) 
+- [Diamond](https://dev.to/thepracticaldev/daily-challenge-2-string-diamond-21n2)
