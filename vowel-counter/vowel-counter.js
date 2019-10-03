@@ -5,4 +5,4 @@
   including lower case letters, upper case letters, symbols, and numbers.
 */
 
-const vowelCounter = (str) => str.match(/[aeiouAEIOU]/g).length;
+const vowelCounter = (str) => (str.match(/[aeiouAEIOU]/g) || '').length;
