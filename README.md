@@ -10,3 +10,4 @@ There is always room for improvement. With that in mind, I will be updating this
 - [Diamond](https://dev.to/thepracticaldev/daily-challenge-2-string-diamond-21n2)
 - [Vowel Counter](https://dev.to/thepracticaldev/daily-challenge-3-vowel-counter-34ni)
 - [Even or Odd](https://dev.to/thepracticaldev/daily-challenge-81-even-or-odd-e5c)
+- [Xs and Os](https://dev.to/thepracticaldev/daily-challenge-29-xs-and-os-12mj)
