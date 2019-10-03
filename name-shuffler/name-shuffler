@@ -1,0 +1,7 @@
+/*
+  Write a function that returns a string in which an individual's first name is swapped with their last name.
+  Example: nameShuffler('Emma McClane'); => "McClane Emma"
+*/
+
+const nameShuffler = (name) => `${name}`.split(' ').reverse().join(' ');  
+  
