@@ -8,3 +8,4 @@ There is always room for improvement. With that in mind, I will be updating this
 
 - [String Peeler](https://dev.to/thepracticaldev/daily-challenge-1-string-peeler-4nep) 
 - [Diamond](https://dev.to/thepracticaldev/daily-challenge-2-string-diamond-21n2)
+- [Vowel Counter](https://dev.to/thepracticaldev/daily-challenge-3-vowel-counter-34ni)
