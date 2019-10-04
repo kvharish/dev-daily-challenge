@@ -12,3 +12,4 @@ There is always room for improvement. With that in mind, I will be updating this
 - [Even or Odd](https://dev.to/thepracticaldev/daily-challenge-81-even-or-odd-e5c)
 - [Xs and Os](https://dev.to/thepracticaldev/daily-challenge-29-xs-and-os-12mj)
 - [Name Shuffler](https://dev.to/thepracticaldev/daily-challenge-37-name-swap-4hg5)
+- [English Beggars](https://dev.to/thepracticaldev/daily-challenge-82-english-beggars-om9)
