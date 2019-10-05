@@ -15,3 +15,4 @@ There is always room for improvement. With that in mind, I will be updating this
 - [English Beggars](https://dev.to/thepracticaldev/daily-challenge-82-english-beggars-om9)
 - [Next Larger Number](https://dev.to/thepracticaldev/daily-challenge-12-next-larger-number-3f3o)
 - [Double Trouble](https://dev.to/thepracticaldev/daily-challenge-17-double-trouble-1ee6)
+- [Deodorant Evaporator](https://dev.to/thepracticaldev/daily-challenge-83-deodorant-evaporator-115d)
