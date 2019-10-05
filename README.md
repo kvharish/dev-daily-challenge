@@ -17,3 +17,4 @@ There is always room for improvement. With that in mind, I will be updating this
 - [Double Trouble](https://dev.to/thepracticaldev/daily-challenge-17-double-trouble-1ee6)
 - [Deodorant Evaporator](https://dev.to/thepracticaldev/daily-challenge-83-deodorant-evaporator-115d)
 - [Facebook Likes](https://dev.to/thepracticaldev/daily-challenge-48-facebook-likes-263l)
+- [Weird String Case](https://dev.to/devteam/daily-challenge-34-weird-string-case-54bo)
