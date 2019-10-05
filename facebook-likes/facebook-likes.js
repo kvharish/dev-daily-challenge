@@ -10,8 +10,11 @@
 */
 
 const displayLikes = (likes) => {
-  let msg = 'no one likes this'
+  let msg;
   switch(likes.length) {
+    case 0:
+      msg = `no one likes this`
+      break;
     case 1:
       msg = `${likes[0]} likes this`;
       break;
