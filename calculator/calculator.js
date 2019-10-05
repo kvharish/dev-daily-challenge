@@ -5,12 +5,7 @@
 calculator = () => {
   return {
     evaluate: (str) => {
-      try{
-        return eval(str)
-      }
-      catch(error) {
-        return 'Invalid expression'
-      }
+      return (!str.match(/^\d+( [\+\-\/\*] \d+)*$/)) ? 'Invalid expression' : eval(str);
     }
   } 
 }
