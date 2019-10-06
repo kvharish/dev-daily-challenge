@@ -24,3 +24,4 @@ There is always room for improvement. With that in mind, I will be updating this
 - [Free Pizza](https://dev.to/thepracticaldev/daily-challenge-74-free-pizza-52lc)
 - [Middle Name](https://dev.to/thepracticaldev/daily-challenge-38-middle-name-45ie)
 - [Number Of People On The Bus](https://dev.to/thepracticaldev/daily-challenge-16-number-of-people-on-the-bus-dik)
+- [Virus](https://dev.to/thepracticaldev/daily-challenge-39-virus-4jkj)
