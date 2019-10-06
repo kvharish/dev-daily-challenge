@@ -22,3 +22,4 @@ There is always room for improvement. With that in mind, I will be updating this
 - [Question Marks](https://dev.to/thepracticaldev/daily-challenge-46-17fb)
 - [Calculator](https://dev.to/thepracticaldev/daily-challenge-10-calculator-23n7)
 - [Free Pizza](https://dev.to/thepracticaldev/daily-challenge-74-free-pizza-52lc)
+- [Middle Name](https://dev.to/thepracticaldev/daily-challenge-38-middle-name-45ie)
