@@ -27,3 +27,4 @@ There is always room for improvement. With that in mind, I will be updating this
 - [Virus](https://dev.to/thepracticaldev/daily-challenge-39-virus-4jkj)
 - [Counting Sheep](https://dev.to/thepracticaldev/daily-challenge-40-counting-sheep-6pc)
 - [Valid Curly Braces](https://dev.to/thepracticaldev/daily-challenge-51-valid-curly-braces-4e6o)
+- [Caesar Cipher](https://dev.to/thepracticaldev/daily-challenge-42-caesar-cipher-43k8)
