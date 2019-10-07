@@ -28,3 +28,4 @@ There is always room for improvement. With that in mind, I will be updating this
 - [Counting Sheep](https://dev.to/thepracticaldev/daily-challenge-40-counting-sheep-6pc)
 - [Valid Curly Braces](https://dev.to/thepracticaldev/daily-challenge-51-valid-curly-braces-4e6o)
 - [Caesar Cipher](https://dev.to/thepracticaldev/daily-challenge-42-caesar-cipher-43k8)
+- [Bingo](https://dev.to/thepracticaldev/daily-challenge-76-bingo-or-not-15d2)
