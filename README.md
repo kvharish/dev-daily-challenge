@@ -31,3 +31,4 @@ There is always room for improvement. With that in mind, I will be updating this
 - [Bingo](https://dev.to/thepracticaldev/daily-challenge-76-bingo-or-not-15d2)
 - [Third Angle of a Triangle](https://dev.to/thepracticaldev/daily-challenge-84-third-angle-of-a-triangle-3agk)
 - [Faro Shuffle](https://dev.to/thepracticaldev/daily-challenge-53-faro-shuffle-2old)
+- [Change Machine](https://dev.to/thepracticaldev/daily-challenge-45-change-machine-414i)
