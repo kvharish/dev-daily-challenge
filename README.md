@@ -34,3 +34,4 @@ There is always room for improvement. With that in mind, I will be updating this
 - [Change Machine](https://dev.to/thepracticaldev/daily-challenge-45-change-machine-414i)
 - [Unwanted Dollars](https://dev.to/thepracticaldev/daily-challenge-85-unwanted-dollars-39ll)
 - [Set Alarm](https://dev.to/thepracticaldev/daily-challenge-75-set-alarm-2739)
+- [Coffee Shop](https://dev.to/thepracticaldev/daily-challenge-56-coffee-shop-2off)
