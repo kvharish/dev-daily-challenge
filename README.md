@@ -37,3 +37,5 @@ There is always room for improvement. With that in mind, I will be updating this
 - [Coffee Shop](https://dev.to/thepracticaldev/daily-challenge-56-coffee-shop-2off)
 - [Pony Express](https://dev.to/thepracticaldev/daily-challenge-87-pony-express-3i5d)
 - [Pyramid](https://dev.to/thepracticaldev/daily-challenge-52-building-a-pyramid-3c30)
+- [Recursive Ninjas](https://dev.to/thepracticaldev/daily-challenge-88-recursive-ninjas-42jb)
+
