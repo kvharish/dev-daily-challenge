@@ -38,4 +38,4 @@ There is always room for improvement. With that in mind, I will be updating this
 - [Pony Express](https://dev.to/thepracticaldev/daily-challenge-87-pony-express-3i5d)
 - [Pyramid](https://dev.to/thepracticaldev/daily-challenge-52-building-a-pyramid-3c30)
 - [Recursive Ninjas](https://dev.to/thepracticaldev/daily-challenge-88-recursive-ninjas-42jb)
-
+- [Domain Name](https://dev.to/thepracticaldev/daily-challenge-89-extract-domain-name-from-url-1ajb)
