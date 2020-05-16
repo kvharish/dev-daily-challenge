@@ -45,3 +45,4 @@ There is always room for improvement. With that in mind, I will be updating this
 - [Number Neighbour](https://dev.to/thepracticaldev/daily-challenge-50-number-neighbor-44jm)
 - [Reverse Words](https://dev.to/thepracticaldev/daily-challenge-15-stop-gninnips-my-sdrow-255j)
 - [Camel Case](https://dev.to/thepracticaldev/daily-challenge-95-camelcase-method-4lmm)
+- [Expressions Matter](https://dev.to/thepracticaldev/daily-challenge-242-expressions-matter-hj)
