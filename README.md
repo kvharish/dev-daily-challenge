@@ -46,3 +46,4 @@ There is always room for improvement. With that in mind, I will be updating this
 - [Reverse Words](https://dev.to/thepracticaldev/daily-challenge-15-stop-gninnips-my-sdrow-255j)
 - [Camel Case](https://dev.to/thepracticaldev/daily-challenge-95-camelcase-method-4lmm)
 - [Expressions Matter](https://dev.to/thepracticaldev/daily-challenge-242-expressions-matter-hj)
+- [RGB to Hex](https://dev.to/thepracticaldev/daily-challenge-236-rgb-to-hex-conversion-2iep)
