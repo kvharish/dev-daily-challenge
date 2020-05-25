@@ -47,3 +47,4 @@ There is always room for improvement. With that in mind, I will be updating this
 - [Camel Case](https://dev.to/thepracticaldev/daily-challenge-95-camelcase-method-4lmm)
 - [Expressions Matter](https://dev.to/thepracticaldev/daily-challenge-242-expressions-matter-hj)
 - [RGB to Hex](https://dev.to/thepracticaldev/daily-challenge-236-rgb-to-hex-conversion-2iep)
+- [Are they the same](https://dev.to/thepracticaldev/daily-challenge-213-are-they-the-same-21j3)
